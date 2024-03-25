@@ -5,7 +5,7 @@ Feel free to create a new Google Colab notebook and load up any of the following
 
 ## Notebook
 
-[Blank Notebook](https://colab.research.google.com/github/elibtronic/lja_datasets/blob/main/Load_CSV.ipynb) - This is simple notebook that will load in Pandas and MatPlotlib. You just need to modify the _URL_ in the **read_csv** line to point to the CSV file you want to experiment with. Clicking on this link will open the notebook in Colab.
+[Blank Notebook](https://colab.research.google.com/github/elibtronic/lja_datasets/blob/master/Load_CSV.ipynb) - This is simple notebook that will load in Pandas and MatPlotlib. You just need to modify the _URL_ in the **read_csv** line to point to the CSV file you want to experiment with. Clicking on this link will open the notebook in Colab.
 
 
 ## Datasets
