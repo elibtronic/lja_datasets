@@ -22,3 +22,9 @@ The following links will download the CSV files directly to your computer.
 [Week 4 Workalong](https://raw.githubusercontent.com/elibtronic/lja_datasets/master/week_4_workalong_san_francisco.csv) - SF Circulation data formatted for ML
 
 [Week 4 Homework](https://raw.githubusercontent.com/elibtronic/lja_datasets/master/week_4_homework_citation.csv) - Top 10% citation data formatted for ML
+
+
+## Advanced Python Datasets
+The following links will download the CSV files directly to your computer.
+
+[Week 2 Warmup](https://raw.githubusercontent.com/elibtronic/lja_datasets/refs/heads/master/adv_week2_warmup_data.csv) - Truncated Public Library data
